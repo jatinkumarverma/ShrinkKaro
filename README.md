@@ -1,4 +1,3 @@
-
 # ShrinkKaro URL Shortener
 
 ShrinkKaro is a simple URL shortener web application that allows users to create short and manageable links from long URLs. This project is built using HTML, CSS, and JavaScript.
@@ -9,7 +8,6 @@ ShrinkKaro is a simple URL shortener web application that allows users to create
 - Copy the shortened URL to the clipboard with a single click.
 - Display the original URL along with its shortened version.
 - Responsive design for seamless usage on various devices.
-
 
 ## Getting Started
 
@@ -30,10 +28,3 @@ ShrinkKaro is a simple URL shortener web application that allows users to create
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to submit a pull request.
-
-
-## Acknowledgements
-
-- [Font Awesome](https://fontawesome.com/) for icons.
-- [Clipboard.js](https://clipboardjs.com/) for clipboard functionality.
-- [TinyURL](https://tinyurl.com/) for inspiration.
